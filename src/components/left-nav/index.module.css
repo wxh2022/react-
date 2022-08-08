@@ -1,0 +1,64 @@
+.main{
+    width: 70px;
+    background-color: rgb(238, 237, 237);
+    padding-top: 40px;
+    position: relative;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px ;
+}
+.avator{
+    width: 40px;
+    margin: 20px 15px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(161, 156, 156);
+}
+.avator1,.avator2,.avator3,.avator4,.avator5,.avator6,.avator8{
+    width: 30px;
+    margin: 20px 20px;
+    height: 30px;
+    display: block;
+}
+.avator7{
+    width: 30px;
+    margin: 40px 20px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+.avator1{
+    background-image: url('../../asset/img/WeChat.png');
+    background-size: cover;
+}
+.avator2{
+    background-image: url('../../asset/img/联系人.png');
+    background-size: cover;
+}
+.avator3{
+    background-image: url('../../asset/img/收藏.png');
+    background-size: cover;
+}
+.avator4{
+    background-image: url('../../asset/img/文件夹.png');
+    background-size: cover;
+}
+.avator5{
+    background-image: url('../../asset/img/朋友圈.png');
+    background-size: cover;
+}
+.avator6{
+    background-image: url('../../asset/img/设置.png');
+    background-size: cover;
+}
+.avator7{
+    background-image: url('../../asset/img/手机.png');
+    background-size: cover;
+}
+.avator8{
+    background-image: url('../../asset/img/功能\,汉堡键\,横杠.png');
+    background-size: cover;
+}
+.avatorinfo{
+    position: absolute;
+    left: 70px;
+    top:-20px;
+}
