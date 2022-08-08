@@ -1,5 +1,6 @@
-完善之处：
-  1、localstorage判断登录
-未开发之处：
-  1、添加好友功能的开发
-  2、上传github共享
+##安装相关依赖
+1、npm install
+##启动数据接口
+2、json-server --watch db.json
+##启动项目
+3、npm start
